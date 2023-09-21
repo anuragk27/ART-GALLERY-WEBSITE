@@ -5,7 +5,7 @@ All the Drawing are hand made by me.
 You can check my all drawing on my Instagram.
 Screenshots :
 
-![gallery1](https://github.com/anuragk27/ART-GALLERY-WEBSITE/assets/95006508/7c5041de-37f7-4356-8d13-227fa43a2d6b)
+![gallery01](https://github.com/anuragk27/ART-GALLERY-WEBSITE/assets/95006508/7265aabc-6720-412f-9c13-74aa2249adb4)
  
 ![gallery2](https://github.com/anuragk27/ART-GALLERY-WEBSITE/assets/95006508/6ad1202e-4356-4c86-9ebc-c17cf2b23b78)
 
